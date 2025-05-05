@@ -2,9 +2,6 @@
 
 <h1 align="center">Hey! My name is Luiz! 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusuario&color=blue&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" />
@@ -22,7 +19,7 @@
 - ❗ **Total Issues**: `x`
 - 💬 **Contributed to (last year)**: `x`
 
-> Score: `C+` _(ou qualquer outro visual que deseje colocar manualmente)_
+> Score: `C+` 
 
 ---
 
